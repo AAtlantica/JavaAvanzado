@@ -3,6 +3,7 @@ package org.example.clase2.clasesAbstractas;
 //Una clase de tipo abstract no se puede instanciar
 //Objetivo: ser base para construir la jerarquia de herencia de clases y aplicar el polimorfismo
 //Observacion: si la clase "normal" tiene un metodo de tipo abstracto, la clase debe declararse como abstracta
+
 public abstract class Aves {
 
     //puede contener: atributos, constructor y metodos "NO ABSTRACTOS"
