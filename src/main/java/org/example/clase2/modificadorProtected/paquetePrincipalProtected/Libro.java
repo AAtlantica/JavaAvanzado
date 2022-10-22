@@ -9,7 +9,7 @@ public class Libro {
     //En atibutos:
     // 1. Podemos acceder si esta dentro del mismo paquete
     // 2. Podemos acceder desde la clase hija
-    protected String nombre;
+    protected static String nombre;
     protected String autor;
 
     //En metodos o funciones:

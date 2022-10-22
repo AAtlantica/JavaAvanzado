@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="Abstracta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Aves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Aves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paquetePrincipalProtected/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paquetePrincipalProtected/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paqueteSecundarioProtected/MainSecundario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paqueteSecundarioProtected/MainSecundario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.clase2.clasesAbstractas.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase1.Main" />
+  <component name="RunManager" selected="Application.MainSecundario">
+    <configuration name="MainSecundario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.clase2.modificadorProtected.paqueteSecundarioProtected.MainSecundario" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase1.*" />
+          <option name="PATTERN" value="org.example.clase2.modificadorProtected.paqueteSecundarioProtected.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSecundario" />
         <item itemvalue="Application.org.example.clase2.clasesAbstractas.Main" />
         <item itemvalue="Application.org.example.clase2.modificadorProtected.paquetePrincipalProtected.Main" />
         <item itemvalue="Application.org.example.clase2.modificadoDefault.modificadorDefaultPaquetePrincipal.Main" />
         <item itemvalue="Application.org.example.clase2.modificadorPrivate.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665967158342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Abstracta">
+      <created>1665971615068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665971615068</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
