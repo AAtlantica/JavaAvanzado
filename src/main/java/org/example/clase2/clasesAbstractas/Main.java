@@ -8,7 +8,6 @@ public class Main {
         colibri.setTipo("Ave");
         System.out.println(colibri);
 
-        //1 la expresion lamba se gasta
-        //2 la palabra protected en la hija en otro paquete
+
     }
 }

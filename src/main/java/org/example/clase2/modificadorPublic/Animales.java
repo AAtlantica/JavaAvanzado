@@ -7,7 +7,7 @@ public class Animales {
     //atributo: visible desde cualquier clase
     //metodo: visible desde cualquier clase
 
-    //observaciones: independientemente del paquete en el que se encuentren.
+    //observaciones: independientemente del paquete en el que se encuentren o se desee utilizar.
    public String nombre;
 
    public void mostrarNombre(){
