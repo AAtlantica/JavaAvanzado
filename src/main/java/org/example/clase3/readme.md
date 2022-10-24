@@ -55,6 +55,8 @@ public class Main{
           /*Dentro de este bloque catch se debe informar cuál fue el motivo por el cual el programa no funciona o
            * en su defecto también se puede otorgar una solución a la problemática*/
         System.out.println("No se puede dividir por cero");
+      }finally {
+        System.out.println("Siempre me imprimo");
       }
     System.out.println("El programa continua");
   }
@@ -62,6 +64,7 @@ public class Main{
 ```
 Observaciones: Si ejecutamos el código notaremos que el programa no se detiene por la excepción y continua su proceso hasta imprimir el siguiente mensaje; sin embargo, si quitásemos el bloque try-catch, el programa se detendría de manera abrupta y no ejecutaría la siguiente instrucción con el mensaje "El programa continúa".<br>
 En el caso de que la/las sentencias ubicadas dentro del bloque try{ ..sentencias..} arrojes mas de una excepción, dicho bloque puede contener más de un catch para capturar la excepción.
+El bloque finally es opcional, siempre debe aparece luego del o los bloques catch, suele utilizarse para cerrar la conexión con los ficheros, entre otras. 
 <br>
 Ej de lanzamiento:
 ```Java
@@ -115,7 +118,7 @@ public class Main {
   public static void main(String[] args) {
     try {
       System.out.println(3 / 0);
-    } catch (ExcepcionPersonalizada e){
+    } catch (ExcepcionPersonalizada e) {
       /*Dentro de este bloque catch se debe informar cuál fue el motivo por el cual el programa no funciona o
        * en su defecto también se puede otorgar una solución a la problemática*/
       System.out.println("No se puede dividir por cero" + e);
