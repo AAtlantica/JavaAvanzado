@@ -112,13 +112,13 @@ public class ExcepcionPersonalizada extends Exception{
 ```
 
 ```java
-import org.example.clase3.ExcepcionPersonalizada;
+import org.example.clase3.ExcepcionesPersonalizadas.ExceptionPersonalizada;
 
 public class Main {
   public static void main(String[] args) {
     try {
       System.out.println(3 / 0);
-    } catch (ExcepcionPersonalizada e) {
+    } catch (ExceptionPersonalizada e) {
       /*Dentro de este bloque catch se debe informar cuál fue el motivo por el cual el programa no funciona o
        * en su defecto también se puede otorgar una solución a la problemática*/
       System.out.println("No se puede dividir por cero" + e);
