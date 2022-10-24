@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="Excepciones">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionLanzadaThrows/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesNoComprobadas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesPersonalizadas/Main.java" afterDir="false" />
+    <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="projects">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Alumnos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionPersonalizada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesPersonalizadas/ExceptionPersonalizada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionTryCatch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +204,56 @@
       <option name="project" value="LOCAL" />
       <updated>1666648585461</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Excepciones">
+      <created>1666649422971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649422971</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Excepciones Try-Catch">
+      <created>1666649456642</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649456642</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Excepciones Lanzadas (Throws)">
+      <created>1666649485281</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649485281</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Excepciones Personalizadas">
+      <created>1666649516856</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649516856</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Excepciones no comprobadas">
+      <created>1666649538803</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649538803</updated>
+    </task>
+    <task id="LOCAL-00016" summary="deleted">
+      <created>1666649547251</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649547251</updated>
+    </task>
+    <task id="LOCAL-00017" summary="projects">
+      <created>1666649557323</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649557323</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +271,13 @@
     <MESSAGE value="Clase 2" />
     <MESSAGE value="Abstracta" />
     <MESSAGE value="Excepciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excepciones" />
+    <MESSAGE value="Excepciones Try-Catch" />
+    <MESSAGE value="Excepciones Lanzadas (Throws)" />
+    <MESSAGE value="Excepciones Personalizadas" />
+    <MESSAGE value="Excepciones no comprobadas" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
