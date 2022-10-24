@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="Excepciones">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionLanzadaThrows/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesNoComprobadas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesPersonalizadas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Alumnos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionPersonalizada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionesPersonalizadas/ExceptionPersonalizada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionTryCatch/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.prueba.Main">
+  <component name="RunManager" selected="Application.org.example.clase3.ExcepcionesPersonalizadas.Main">
     <configuration name="Colibri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.clase2.clasesAbstractas.Colibri" />
       <module name="JavaAvanzado" />
@@ -54,11 +61,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase3.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.clase3.ExcepcionTryCatch.Main" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase3.*" />
+          <option name="PATTERN" value="org.example.clase3.ExcepcionesPersonalizadas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.clase2.clasesAbstractas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase2.clasesAbstractas.Main" />
+    <configuration name="org.example.clase3.ExcepcionesPersonalizadas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.clase3.ExcepcionesPersonalizadas.Main" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase2.clasesAbstractas.*" />
+          <option name="PATTERN" value="org.example.clase3.ExcepcionesPersonalizadas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.clase3.ExcepcionesPersonalizadas.Main" />
         <item itemvalue="Application.org.example.prueba.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Colibri" />
         <item itemvalue="Application.MainSecundario" />
-        <item itemvalue="Application.org.example.clase2.clasesAbstractas.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666647245886</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Excepciones">
+      <created>1666647765617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666647765617</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Excepciones">
+      <created>1666648585461</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666648585461</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
