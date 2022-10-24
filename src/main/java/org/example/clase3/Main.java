@@ -10,10 +10,11 @@ public class Main {
     private static final String path = "/home/francisco/Documentos/7-Clases/3-Clases Angel/JavaAvanzado/src/main/java/org/example/clase3/alumnos.txt";
        static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) throws Exception {
-       /* Alumnos alumnos = new Alumnos();
+       /*
+        Alumnos alumnos = new Alumnos();
         File archivo = alumnos.get_file(path);
-       alumnos.reader_file(archivo);
-    */
+        alumnos.reader_file(archivo);
+        */
 
         //Si ejecutamos vemos la excepcion no comprobada
 /*
