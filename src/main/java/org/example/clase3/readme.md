@@ -39,7 +39,7 @@ Error o RuntimeException.
 Todas las excepciones comprobadas (exception checked o excepciones en tiempo de compilación) son todas las que heredan de Exception, pero no de RuntimeException.
 El compilador es el aliado del programador advirtiendo que deben ser tratadas y gestionadas._**
 
-#GESTION DE EXCEPCIONES
+# GESTIÓN DE EXCEPCIONES
 Existen dos maneras de gestionar las excepciones:
 -  Capturarla con el bloque try - catch
 -  Lanzar la excepción (Throws) para que la gestione el método o función que llamo a la función, donde se produjo la excepción. 
@@ -95,3 +95,32 @@ Observaciones: En la firma del método creado, declaramos la palabra reservada t
 
 **_¡Importante!!_**
 **Recuerden que las excepciones "No chequeadas", NO deben ser gestionadas como lo estamos haciendo en los ejemplos anteriores, esos ejemplos son meramente ilustrativos.**
+<br>
+# Excepciones personalizadas
+En Java también podemos crear nuestras propias excepciones, las cuales consideramos que son más acorde al mensaje o solución que deseamos mostrar.
+Para ello debemos crear una clase y que dicha clase herede de la clase Exception, y a continuación en el constructor de la excepción personalizada llamamos al método súper de la clase padre.
+<br>Ej excepción personalizada
+```java
+public class ExcepcionPersonalizada extends Exception{
+    public ExcepcionPersonalizada(String mensaje){
+        super(mensaje);
+    }
+}
+```
+
+```java
+import org.example.clase3.ExcepcionPersonalizada;
+
+public class Main {
+  public static void main(String[] args) {
+    try {
+      System.out.println(3 / 0);
+    } catch (ExcepcionPersonalizada e){
+      /*Dentro de este bloque catch se debe informar cuál fue el motivo por el cual el programa no funciona o
+       * en su defecto también se puede otorgar una solución a la problemática*/
+      System.out.println("No se puede dividir por cero" + e);
+    }
+    System.out.println("El programa continua");
+  }
+}
+```
