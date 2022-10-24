@@ -72,13 +72,13 @@ public class Main{
             divisionPorCero();
       }catch (ArithmeticException e){
           /*Dentro de este bloque catch se debe informar cuál fue el motivo por el cual el programa no funciona o
-           * en su defecto también se puede otorgar una solución a la problematica*/
+           * en su defecto también se puede otorgar una solución a la problemática*/
         System.out.println("No se puede dividir por cero");
       }
     System.out.println("El programa continua");
   }
   
-  //supongamos que ahora queremos creamos un metodo donde se llevaria a cabo la división por cero
+  //supongamos que ahora creamos un método donde se llevaria a cabo la división por cero
   
   public static void divisionPorCero() throws ArithmeticException{
 
