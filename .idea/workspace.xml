@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="projects">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.clase3.ExcepcionesPersonalizadas.Main">
+  <component name="RunManager" selected="Application.org.example.clase1.Main">
     <configuration name="Colibri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.clase2.clasesAbstractas.Colibri" />
       <module name="JavaAvanzado" />
@@ -76,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSecundario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase2.modificadorProtected.paqueteSecundarioProtected.MainSecundario" />
+    <configuration name="org.example.clase1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.clase1.Main" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase2.modificadorProtected.paqueteSecundarioProtected.*" />
+          <option name="PATTERN" value="org.example.clase1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.clase1.Main" />
         <item itemvalue="Application.org.example.clase3.ExcepcionesPersonalizadas.Main" />
         <item itemvalue="Application.org.example.prueba.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Colibri" />
-        <item itemvalue="Application.MainSecundario" />
       </list>
     </recent_temporary>
   </component>

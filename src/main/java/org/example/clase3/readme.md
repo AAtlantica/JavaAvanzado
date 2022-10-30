@@ -5,7 +5,7 @@ La filosofía básica de Java es que "EL CÓDIGO ERRÓNEO NO SERÁ EJECUTADO"
 Un error puede definirse como un suceso/evento anormal severo, y es el motivo por el cual una aplicación no puede recuperarse. Por ejemplo: un problema de memoria, el sistema operativo, una conexión de red se ha perdido en el proceso de comunicación, etc.
 <br>Estos errores no son propiamente excepciones porque surgen fuera del control del usuario o el programador. Usualmente, son ignorados en el código, ya que rara vez se puede hacer algo al respecto.
 
-### Excepciones
+### Excepciones 
 Una excepción, en cambio, es un suceso/evento que ocurre durante la ejecución del programa. Cuando esto sucede provoca que el flujo normal de funcionamiento de nuestro programa se interrumpa y termine de forma anormal.<br>
 Por tanto, cuando ocurren este tipo de excepciones deben ser tratadas o gestionadas. De estos existen dos tipos:<br>
 - Las no chequeadas
