@@ -13,7 +13,7 @@ Por tanto, cuando ocurren este tipo de excepciones deben ser tratadas o gestiona
 
 Antes de seguir avanzando veamos como se presentan estas situaciones en Java y como debemos tratarlas.
 
-Todas las clases y objetos en Java extienden de la clase Object, no es la excepción a la regla la clase denominada Throwable.
+Todas las clases y objetos en Java extienden de la clase Object, no es la excepción a la regla la clase denominada Throwable...
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Throwable.html
 <br>
