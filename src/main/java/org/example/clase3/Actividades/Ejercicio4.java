@@ -19,8 +19,8 @@ public class Ejercicio4 {
         System.out.print("Introduce un texto: ");
         s = sc.nextLine();
 
-        m = leerDouble("Introduce un número double: ");
-        n = leerDouble("Introduce otro número double: ");
+        //m = leerDouble("Introduce un número double: ");
+        //n = leerDouble("Introduce otro número double: ");
 
         System.out.println("primer int introducido -> " + x);
         System.out.println("segundo int introducido -> " + y);

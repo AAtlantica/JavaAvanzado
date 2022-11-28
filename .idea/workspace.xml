@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="projects">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d46761c3-58bc-4535-a96a-0ce864f48bbf" name="Changes" comment="probando cambios">
+      <change afterPath="$PROJECT_DIR$/Listas enlazada.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Clase_2711_ListasEnlazadas/Listas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Clase_2711_ListasEnlazadas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Clase_2711_ListasEnlazadas/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/clase4/I_list/c_arrayList/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Colibri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/ColibriElectrico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/clasesAbstractas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paquetePrincipalProtected/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paquetePrincipalProtected/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paqueteSecundarioProtected/MainSecundario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase2/modificadorProtected/paqueteSecundarioProtected/MainSecundario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/Actividades/Ejercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionTryCatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/clase3/ExcepcionTryCatch/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +44,37 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GBzQKSMyz5qA4oQMKR8rISFhkJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Francisco_Romero/Documents/02-Practica PrimeFaces Java/JavaAvanzado",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.org.example.clase1.Main">
-    <configuration name="Colibri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase2.clasesAbstractas.Colibri" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Francisco_Romero\Documents\02-Practica PrimeFaces Java\JavaAvanzado\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.Clase_2711_ListasEnlazadas.Main">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.clase4.I_list.c_arrayList.ArrayList" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase2.clasesAbstractas.*" />
+          <option name="PATTERN" value="org.example.clase4.I_list.c_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.clase3.ExcepcionTryCatch.Main" />
+    <configuration name="org.example.Clase_2711_ListasEnlazadas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clase_2711_ListasEnlazadas.Main" />
       <module name="JavaAvanzado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.clase3.ExcepcionesPersonalizadas.*" />
+          <option name="PATTERN" value="org.example.Clase_2711_ListasEnlazadas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.Clase_2711_ListasEnlazadas.Main" />
+        <item itemvalue="Application.ArrayList" />
+        <item itemvalue="Application.org.example.prueba.Main" />
         <item itemvalue="Application.org.example.clase1.Main" />
         <item itemvalue="Application.org.example.clase3.ExcepcionesPersonalizadas.Main" />
-        <item itemvalue="Application.org.example.prueba.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Colibri" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666649557323</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="probando cambios">
+      <created>1667162152402</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667162152402</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +294,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Clase 2" />
     <MESSAGE value="Abstracta" />
     <MESSAGE value="Excepciones" />
@@ -267,7 +304,8 @@
     <MESSAGE value="Excepciones no comprobadas" />
     <MESSAGE value="deleted" />
     <MESSAGE value="projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="projects" />
+    <MESSAGE value="probando cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="probando cambios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -281,6 +319,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/clase1/Main.java</url>
           <line>38</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/prueba/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Clase_2711_ListasEnlazadas/Listas.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

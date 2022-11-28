@@ -12,7 +12,7 @@ public class Ejercicio7 {
 
     //TODO: Ejercicio 7, el tratamiento de excepcion debe ser diferente al del ejercicio 6
     public static void tratarExcepciones3(String archivoEmpleado) {
-        File file = new File(archivoEmpleado);
-        Scanner contents = new Scanner(file);
+       /* File file = new File(archivoEmpleado);
+        Scanner contents = new Scanner(file);*/
     }
 }

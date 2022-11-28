@@ -10,7 +10,7 @@ public class Ejercicio10 {
 
     //TODO: Ejercicio 10; Resolverlo de forma diferente a la anterior
     public static void ejercicio10(){
-        FileInputStream archivo = new FileInputStream("archivo");
-        String x = (byte) archivo.read();
+       // FileInputStream archivo = new FileInputStream("archivo");
+        //String x = (byte) archivo.read();
     }
 }

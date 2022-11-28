@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Libro libro = new Libro();
-        libro.nombre = "El Alquimista";
+        Libro.nombre = "El Alquimista";
         libro.autor = "Paulo Cohelo";
 
         libro.mostrarAutor();
@@ -13,7 +13,7 @@ public class Main {
 
         Cuentos cuento = new Cuentos();
         cuento.tipo = "Comedia";
-        cuento.nombre = "Don Quijote";
+        Libro.nombre = "Don Quijote";
         cuento.autor = "Nose";
 
         cuento.mostrarAutor();

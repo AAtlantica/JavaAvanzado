@@ -9,7 +9,7 @@ public class Ejercicio9 {
     }
     //TODO: Ejercicio 9; Resolverlo gestionando la excepcion en el metodo que lo contiene.
     public static void ejercicio9(){
-        FileInputStream archivo = new FileInputStream("archivo");
-        String x = (byte) archivo.read();
+        /*FileInputStream archivo = new FileInputStream("archivo");
+        String x = (byte) archivo.read();*/
     }
 }

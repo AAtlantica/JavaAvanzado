@@ -13,8 +13,8 @@ public class Ejercicio6 {
     /*-------- Se pide tratar las excepciones que se puedan producir -------*/
     //TODO: Ejercicio 6
     public static void tratarExcepciones2(String archivoEmpleado) {
-        File file = new File(archivoEmpleado);
-        Scanner contents = new Scanner(file);
+       /* File file = new File(archivoEmpleado);
+        Scanner contents = new Scanner(file);*/
     }
 
 }
